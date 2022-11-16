@@ -1,4 +1,4 @@
-![Header](https://github.com/Nahodsah/Nahodsah/blob/main/assets/git-photo.png)
+![Header](https://github.com/Nahodsah/Nahodsah/blob/main/assets/Снимок%20экрана%202022-11-16%20в%2022.30.35.png)
 
 # Я начинающий C++ и Python разработчик
 
